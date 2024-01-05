@@ -1,0 +1,460 @@
+.group-child {
+    position: absolute;
+    top: 19px;
+    left: calc(50% + 160px);
+    border-radius: 50%;
+    background-color: var(--color-plum);
+    width: 61px;
+    height: 61px;
+  }
+  .about-petdex {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 201px);
+    font-size: var(--font-size-45xl);
+    text-align: left;
+  }
+  .connecting-pets-and {
+    position: absolute;
+    top: 439px;
+    left: calc(50% - 128px);
+    line-height: 106%;
+    font-weight: 500;
+  }
+  .welcome-to-petdex {
+    position: absolute;
+    top: 494px;
+    left: calc(50% - 438px);
+    letter-spacing: 0.05em;
+    line-height: 106%;
+    display: inline-block;
+    width: 876px;
+  }
+  .wepik-export-20231130094327zi1-icon {
+    position: absolute;
+    top: 19px;
+    left: calc(50% - 281px);
+    width: 563px;
+    height: 375px;
+    object-fit: cover;
+  }
+  .ellipse-parent {
+    position: absolute;
+    top: 152px;
+    left: calc(50% - 438px);
+    width: 876px;
+    height: 578px;
+    text-align: center;
+  }
+  .group-item {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 665.5px);
+    width: 137px;
+    height: 65px;
+    object-fit: cover;
+  }
+  .group-inner,
+  .rectangle-div {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 13px);
+    background-color: var(--color-black);
+    width: 26px;
+    height: 3px;
+  }
+  .rectangle-div {
+    top: 8px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 29px;
+    left: calc(50% + 639.5px);
+    width: 26px;
+    height: 11px;
+  }
+  .component-1-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-lg);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .log-in {
+    position: absolute;
+    height: 66.67%;
+    width: 40.37%;
+    top: 16.67%;
+    left: 30.28%;
+    display: inline-block;
+  }
+  .component-1 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 119px);
+    width: 109px;
+    height: 36px;
+  }
+  .component-2-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-lg);
+    background-color: var(--color-plum);
+  }
+  .sign-up {
+    position: absolute;
+    height: 66.67%;
+    width: 49.54%;
+    top: 16.67%;
+    left: 25.69%;
+    display: inline-block;
+  }
+  .component-1-parent,
+  .component-2 {
+    position: absolute;
+    top: 0;
+    left: calc(50% + 10px);
+    width: 109px;
+    height: 36px;
+  }
+  .component-1-parent {
+    top: 17px;
+    left: calc(50% + 325.5px);
+    width: 238px;
+  }
+  .home1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .about-us,
+  .home {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 188px);
+    width: 42px;
+    height: 24px;
+  }
+  .about-us {
+    left: calc(50% - 50px);
+    width: 64px;
+  }
+  .contact-us,
+  .group-parent,
+  .home-parent {
+    position: absolute;
+    top: 0;
+    left: calc(50% + 108px);
+    width: 80px;
+    height: 24px;
+  }
+  .group-parent,
+  .home-parent {
+    top: 23px;
+    left: calc(50% - 188.5px);
+    width: 376px;
+  }
+  .group-parent {
+    top: 38px;
+    left: calc(50% - 665px);
+    width: 1331px;
+    height: 65px;
+    font-size: var(--font-size-base);
+  }
+  .group-child1,
+  .group-child2 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 720px);
+    background-color: var(--color-plum);
+    width: 1440px;
+    height: 1046px;
+  }
+  .group-child2 {
+    left: calc(50% - 338.5px);
+    border-radius: var(--br-22xl);
+    background-color: var(--color-white);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 677px;
+    height: 550px;
+  }
+  .ellipse-div {
+    position: absolute;
+    top: 13px;
+    left: calc(50% + 135.5px);
+    border-radius: 50%;
+    background-color: var(--color-plum);
+    width: 61px;
+    height: 61px;
+  }
+  .ellipse-group,
+  .why-petdex {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 196.5px);
+  }
+  .ellipse-group {
+    top: 47px;
+    left: calc(50% - 186.5px);
+    width: 393px;
+    height: 88px;
+    font-size: var(--font-size-45xl);
+  }
+  .passionate-team-our-team-is-c {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-8xl);
+  }
+  .community-focus-petdex-container,
+  .passionate-team-our-container,
+  .quality-assurance-we-container {
+    position: absolute;
+    top: 179px;
+    left: calc(50% - 230.5px);
+    letter-spacing: 0.05em;
+    line-height: 106%;
+    display: inline-block;
+    width: 461px;
+  }
+  .community-focus-petdex-container,
+  .quality-assurance-we-container {
+    top: 284px;
+  }
+  .community-focus-petdex-container {
+    top: 389px;
+  }
+  .group-child3,
+  .rectangle-container {
+    position: absolute;
+    top: 22px;
+    left: calc(50% + 8px);
+    width: 677px;
+    height: 550px;
+  }
+  .group-child3 {
+    top: 0;
+    left: calc(50% - 685.5px);
+    border-radius: var(--br-22xl);
+    background-color: var(--color-white);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1371px;
+    height: 418px;
+  }
+  .group-child4 {
+    position: absolute;
+    top: 13px;
+    left: calc(50% + 105.5px);
+    border-radius: 50%;
+    background-color: var(--color-plum);
+    width: 61px;
+    height: 61px;
+  }
+  .our-values {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 166.5px);
+  }
+  .ellipse-container {
+    position: absolute;
+    top: 53px;
+    left: calc(50% - 156.5px);
+    width: 333px;
+    height: 88px;
+    font-size: var(--font-size-45xl);
+  }
+  .compassion-we-approach-container,
+  .innovation-constantly-evolvin-container,
+  .integrity-petdex-is-container {
+    position: absolute;
+    top: 193px;
+    left: calc(50% - 437.5px);
+    letter-spacing: 0.05em;
+    line-height: 106%;
+    display: inline-block;
+    width: 876px;
+  }
+  .innovation-constantly-evolvin-container,
+  .integrity-petdex-is-container {
+    top: 256px;
+  }
+  .innovation-constantly-evolvin-container {
+    top: 319px;
+  }
+  .group-child6,
+  .group-div {
+    position: absolute;
+    top: 600px;
+    left: calc(50% - 685px);
+    width: 1371px;
+    height: 418px;
+  }
+  .group-child6 {
+    top: 13px;
+    left: calc(50% + 110px);
+    border-radius: 50%;
+    background-color: var(--color-plum);
+    width: 61px;
+    height: 61px;
+  }
+  .ellipse-parent1,
+  .our-mission {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 171px);
+  }
+  .ellipse-parent1 {
+    top: 47px;
+    left: calc(50% - 164.5px);
+    width: 342px;
+    height: 88px;
+  }
+  .at-petdex-our {
+    position: absolute;
+    top: 344px;
+    left: calc(50% - 210.5px);
+    font-size: var(--font-size-xl);
+    letter-spacing: 0.05em;
+    line-height: 106%;
+    text-align: center;
+    display: inline-block;
+    width: 464px;
+  }
+  .wepik-export-20231130093554dgx-icon {
+    position: absolute;
+    top: 127px;
+    left: calc(50% - 143.5px);
+    width: 277px;
+    height: 192px;
+    object-fit: cover;
+  }
+  .rectangle-parent1 {
+    position: absolute;
+    top: 22px;
+    left: calc(50% - 686px);
+    width: 677px;
+    height: 550px;
+    font-size: var(--font-size-45xl);
+  }
+  .rectangle-group {
+    position: absolute;
+    top: 850px;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 1046px;
+  }
+  .group-child7 {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: var(--color-black);
+    height: 209px;
+  }
+  .group-icon {
+    position: absolute;
+    top: 80.2px;
+    left: calc(50% - 53px);
+    width: 105.5px;
+    height: 48.8px;
+    object-fit: cover;
+  }
+  .home2,
+  .pets,
+  .suppliments {
+    position: absolute;
+    top: 36px;
+    left: calc(50% - 44.5px);
+    font-weight: 500;
+  }
+  .home2,
+  .suppliments {
+    top: 0;
+  }
+  .suppliments {
+    top: 72px;
+  }
+  .pets-parent {
+    position: absolute;
+    top: 58px;
+    left: calc(50% - 659px);
+    width: 89px;
+    height: 94px;
+  }
+  .group-child8,
+  .group-child9 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 54.5px);
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+  }
+  .group-child9 {
+    left: calc(50% + 10.5px);
+  }
+  .group-container {
+    position: absolute;
+    top: 83px;
+    left: calc(50% + 547px);
+    width: 109px;
+    height: 44px;
+  }
+  .rectangle-parent2 {
+    position: absolute;
+    width: 100%;
+    top: 1896px;
+    right: 0;
+    left: 0;
+    height: 209px;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+  }
+  .rectangle-parent3 {
+    position: absolute;
+    top: 67px;
+    left: calc(50% + 640px);
+    width: 26px;
+    height: 11px;
+  }
+  .component-4,
+  .component-4-child {
+    position: absolute;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 850px;
+  }
+  .component-4-child {
+    top: calc(50% - 1275px);
+    background-color: var(--color-gainsboro);
+  }
+  .component-4 {
+    top: 0;
+    overflow: hidden;
+  }
+  .about {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 2105px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-trip-sans);
+  }
+  

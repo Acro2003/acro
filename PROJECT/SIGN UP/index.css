@@ -1,0 +1,413 @@
+.sign-in-page-child {
+    position: absolute;
+    top: 153px;
+    left: calc(50% + 365px);
+    border-radius: 50%;
+    background-color: var(--color-plum);
+    width: 61px;
+    height: 61px;
+  }
+  .join-the-petdex {
+    position: absolute;
+    top: 150px;
+    left: calc(50% - 403px);
+    font-size: var(--font-size-45xl);
+    line-height: 106%;
+    display: inline-block;
+    text-align: center;
+    width: 806px;
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 346.5px);
+    border-radius: var(--br-22xl);
+    background-color: var(--color-plum);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 693px;
+    height: 456px;
+  }
+  .create-your-account {
+    position: absolute;
+    top: 32px;
+    left: calc(50% - 159.5px);
+    line-height: 106%;
+  }
+  .group-child1,
+  .group-inner,
+  .group-item,
+  .rectangle-div {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 81px);
+    border-radius: var(--br-sm);
+    background-color: var(--color-white);
+    width: 314px;
+    height: 36px;
+  }
+  .group-child1,
+  .group-inner,
+  .rectangle-div {
+    top: 60px;
+  }
+  .group-child1,
+  .rectangle-div {
+    top: 120px;
+  }
+  .group-child1 {
+    top: 180px;
+  }
+  .confirm-password,
+  .email,
+  .full-name,
+  .password {
+    position: absolute;
+    top: 10px;
+    left: calc(50% - 174px);
+    line-height: 106%;
+    font-weight: 500;
+  }
+  .confirm-password,
+  .email,
+  .password {
+    top: 70px;
+    left: calc(50% - 142px);
+  }
+  .confirm-password,
+  .password {
+    top: 130px;
+    left: calc(50% - 172px);
+  }
+  .confirm-password {
+    top: 190px;
+    left: calc(50% - 233px);
+    text-align: left;
+  }
+  .rectangle-group {
+    position: absolute;
+    top: 92px;
+    left: calc(50% - 233.5px);
+    width: 466px;
+    height: 216px;
+    font-size: var(--font-size-base);
+  }
+  .i-agree-to {
+    position: absolute;
+    top: 5px;
+    left: calc(50% - 127.5px);
+    line-height: 106%;
+  }
+  .group-child2 {
+    position: absolute;
+    top: 0;
+    left: calc(50% + 107.5px);
+    border-radius: 6px;
+    background-color: var(--color-white);
+    width: 20px;
+    height: 20px;
+  }
+  .i-agree-to-the-terms-of-servic-parent {
+    position: absolute;
+    top: 342px;
+    left: calc(50% - 127.5px);
+    width: 255px;
+    height: 20px;
+    text-align: left;
+    font-size: 10px;
+  }
+  .group-child3 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 81px);
+    border-radius: var(--br-sm);
+    background-color: var(--color-black);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 162px;
+    height: 42px;
+  }
+  .create-account {
+    position: absolute;
+    top: 13px;
+    left: calc(50% - 50px);
+    line-height: 106%;
+  }
+  .rectangle-container {
+    position: absolute;
+    top: 387px;
+    left: calc(50% - 81.5px);
+    width: 162px;
+    height: 42px;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 250px;
+    left: calc(50% - 346px);
+    width: 693px;
+    height: 456px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 20px;
+  }
+  .already-have-an,
+  .need-help {
+    position: absolute;
+    top: 793px;
+    left: calc(50% - 322px);
+    line-height: 106%;
+  }
+  .need-help {
+    left: calc(50% + 157px);
+  }
+  .group-icon {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 665.5px);
+    width: 137px;
+    height: 65px;
+    object-fit: cover;
+  }
+  .group-child4 {
+    top: 0;
+    left: calc(50% - 13px);
+    background-color: var(--color-black);
+    height: 3px;
+  }
+  .group-child4,
+  .group-child5,
+  .group-div {
+    position: absolute;
+    width: 26px;
+  }
+  .group-child5 {
+    top: 8px;
+    left: calc(50% - 13px);
+    background-color: var(--color-black);
+    height: 3px;
+  }
+  .group-div {
+    top: 29px;
+    left: calc(50% + 639.5px);
+    height: 11px;
+  }
+  .component-1-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-lg);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .log-in {
+    position: absolute;
+    height: 66.67%;
+    width: 40.37%;
+    top: 16.67%;
+    left: 30.28%;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    font-family: var(--font-trip-sans);
+    color: var(--color-black);
+    text-align: left;
+  }
+  .component-1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    left: calc(50% - 119px);
+    width: 109px;
+    height: 36px;
+  }
+  .component-2-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-lg);
+    background-color: var(--color-plum);
+  }
+  .sign-up {
+    position: absolute;
+    height: 66.67%;
+    width: 49.54%;
+    top: 16.67%;
+    left: 25.69%;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    font-family: var(--font-trip-sans);
+    color: var(--color-black);
+    text-align: left;
+  }
+  .component-2 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    left: calc(50% + 10px);
+    width: 109px;
+    height: 36px;
+  }
+  .component-1-parent {
+    position: absolute;
+    top: 17px;
+    left: calc(50% + 325.5px);
+    width: 238px;
+    height: 36px;
+  }
+  .home1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .about-us,
+  .home {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 188px);
+    width: 42px;
+    height: 24px;
+  }
+  .about-us {
+    left: calc(50% - 50px);
+    width: 64px;
+  }
+  .contact-us,
+  .group-parent,
+  .home-parent {
+    position: absolute;
+    top: 0;
+    left: calc(50% + 108px);
+    width: 80px;
+    height: 24px;
+  }
+  .group-parent,
+  .home-parent {
+    top: 23px;
+    left: calc(50% - 188.5px);
+    width: 376px;
+  }
+  .group-parent {
+    top: 38px;
+    left: calc(50% - 665px);
+    width: 1331px;
+    height: 65px;
+    font-size: var(--font-size-base);
+  }
+  .group-child6 {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: var(--color-black);
+    height: 209px;
+  }
+  .group-icon1 {
+    position: absolute;
+    top: 80.2px;
+    left: calc(50% - 53px);
+    width: 105.5px;
+    height: 48.8px;
+    object-fit: cover;
+  }
+  .home2,
+  .pets,
+  .suppliments {
+    position: absolute;
+    top: 36px;
+    left: calc(50% - 44.5px);
+    font-weight: 500;
+  }
+  .home2,
+  .suppliments {
+    top: 0;
+  }
+  .suppliments {
+    top: 72px;
+  }
+  .pets-parent {
+    position: absolute;
+    top: 58px;
+    left: calc(50% - 659px);
+    width: 89px;
+    height: 94px;
+  }
+  .group-child7,
+  .group-child8 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 54.5px);
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+  }
+  .group-child8 {
+    left: calc(50% + 10.5px);
+  }
+  .group-container {
+    position: absolute;
+    top: 83px;
+    left: calc(50% + 547px);
+    width: 109px;
+    height: 44px;
+  }
+  .rectangle-parent1 {
+    position: absolute;
+    width: 100%;
+    top: 772px;
+    right: 0;
+    left: 0;
+    height: 209px;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+  }
+  .rectangle-parent2 {
+    position: absolute;
+    top: 67px;
+    left: calc(50% + 640px);
+    width: 26px;
+    height: 11px;
+  }
+  .component-4,
+  .component-4-child {
+    position: absolute;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 850px;
+  }
+  .component-4-child {
+    top: calc(50% - 1275px);
+    background-color: var(--color-gainsboro);
+  }
+  .component-4 {
+    top: 0;
+    overflow: hidden;
+  }
+  .sign-in-page {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 981px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    font-family: var(--font-trip-sans);
+  }
+  

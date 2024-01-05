@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-trip-sans: "Trip Sans";
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-45xl: 64px;
+    --font-size-xl: 20px;
+    --font-size-sm: 14px;
+    --font-size-3xs: 10px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gainsboro: #d9d9d9;
+    --color-black: #000;
+    --color-plum: #e4c1f9;
+  
+    /* Paddings */
+    --padding-8xl: 27px;
+  
+    /* Border radiuses */
+    --br-22xl: 41px;
+    --br-lg: 18px;
+    --br-sm: 14px;
+    --br-7xs: 6px;
+  }
+  

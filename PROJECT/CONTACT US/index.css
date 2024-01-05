@@ -1,0 +1,477 @@
+.group-child {
+    position: absolute;
+    top: 19px;
+    left: calc(50% + 298px);
+    border-radius: 50%;
+    background-color: var(--color-plum);
+    width: 61px;
+    height: 61px;
+  }
+  .ellipse-parent,
+  .get-in-touch {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 359px);
+  }
+  .ellipse-parent {
+    width: 718px;
+    height: 88px;
+  }
+  .were-here-to {
+    position: absolute;
+    top: 7px;
+    left: calc(50% - 108.5px);
+    font-size: var(--font-size-xl);
+    line-height: 106%;
+    font-weight: 500;
+  }
+  .group-item {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 346.5px);
+    border-radius: var(--br-22xl);
+    background-color: var(--color-plum);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 693px;
+    height: 506px;
+  }
+  .contact-form {
+    position: absolute;
+    top: 32px;
+    left: calc(50% - 61.5px);
+    font-size: var(--font-size-xl);
+    line-height: 106%;
+  }
+  .group-child1,
+  .group-child2,
+  .group-inner,
+  .rectangle-div {
+    position: absolute;
+    top: 92px;
+    left: calc(50% - 81.5px);
+    border-radius: var(--br-sm);
+    background-color: var(--color-white);
+    width: 314px;
+    height: 36px;
+  }
+  .group-child1,
+  .group-child2,
+  .rectangle-div {
+    top: 152px;
+  }
+  .group-child1,
+  .group-child2 {
+    top: 212px;
+  }
+  .group-child2 {
+    top: 272px;
+    height: 138px;
+  }
+  .email,
+  .full-name,
+  .message,
+  .subject {
+    position: absolute;
+    top: 102px;
+    left: calc(50% - 174.5px);
+    line-height: 106%;
+    font-weight: 500;
+  }
+  .email,
+  .message,
+  .subject {
+    top: 162px;
+    left: calc(50% - 142.5px);
+  }
+  .message,
+  .subject {
+    top: 222px;
+    left: calc(50% - 159.5px);
+  }
+  .message {
+    top: 282px;
+    left: calc(50% - 168.5px);
+    text-align: left;
+  }
+  .group-child3 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 81px);
+    border-radius: var(--br-sm);
+    background-color: var(--color-black);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 162px;
+    height: 42px;
+  }
+  .send-message {
+    position: absolute;
+    top: 13px;
+    left: calc(50% - 45px);
+    line-height: 106%;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 438px;
+    left: calc(50% - 81.5px);
+    width: 162px;
+    height: 42px;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+  }
+  .were-here-to-assist-you-parent {
+    position: absolute;
+    top: 98px;
+    left: calc(50% - 354px);
+    width: 693px;
+    height: 506px;
+    text-align: center;
+    font-size: var(--font-size-base);
+  }
+  .group-icon,
+  .group-parent {
+    position: absolute;
+    top: 152px;
+    left: calc(50% - 351px);
+    width: 718px;
+    height: 604px;
+  }
+  .group-icon {
+    top: 0;
+    left: calc(50% - 665.5px);
+    width: 137px;
+    height: 65px;
+    object-fit: cover;
+  }
+  .group-child4,
+  .group-child5 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 13px);
+    background-color: var(--color-black);
+    width: 26px;
+    height: 3px;
+  }
+  .group-child5 {
+    top: 8px;
+  }
+  .rectangle-group {
+    position: absolute;
+    top: 29px;
+    left: calc(50% + 639.5px);
+    width: 26px;
+    height: 11px;
+  }
+  .component-1-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-lg);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .log-in {
+    position: absolute;
+    height: 66.67%;
+    width: 40.37%;
+    top: 16.67%;
+    left: 30.28%;
+    display: inline-block;
+  }
+  .component-1 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 119px);
+    width: 109px;
+    height: 36px;
+  }
+  .component-2-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-lg);
+    background-color: var(--color-plum);
+  }
+  .sign-up {
+    position: absolute;
+    height: 66.67%;
+    width: 49.54%;
+    top: 16.67%;
+    left: 25.69%;
+    display: inline-block;
+  }
+  .component-1-parent,
+  .component-2 {
+    position: absolute;
+    top: 0;
+    left: calc(50% + 10px);
+    width: 109px;
+    height: 36px;
+  }
+  .component-1-parent {
+    top: 17px;
+    left: calc(50% + 325.5px);
+    width: 238px;
+  }
+  .home1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .about-us,
+  .contact-us,
+  .home {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 188px);
+    width: 42px;
+    height: 24px;
+  }
+  .about-us,
+  .contact-us {
+    left: calc(50% - 50px);
+    width: 64px;
+  }
+  .contact-us {
+    left: calc(50% + 108px);
+    width: 80px;
+  }
+  .group-container,
+  .home-parent {
+    position: absolute;
+    top: 23px;
+    left: calc(50% - 188.5px);
+    width: 376px;
+    height: 24px;
+  }
+  .group-container {
+    top: 38px;
+    left: calc(50% - 665px);
+    width: 1331px;
+    height: 65px;
+    font-size: var(--font-size-base);
+  }
+  .contact-child,
+  .group-child6 {
+    position: absolute;
+    top: 850px;
+    left: calc(50% - 720px);
+    background-color: var(--color-plum);
+    width: 1440px;
+    height: 602px;
+  }
+  .group-child6 {
+    top: 0;
+    left: calc(50% - 338.5px);
+    border-radius: var(--br-22xl);
+    background-color: var(--color-white);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 677px;
+    height: 550px;
+  }
+  .contact-information {
+    position: absolute;
+    top: 47px;
+    left: calc(50% - 292.5px);
+    font-size: var(--font-size-45xl);
+  }
+  .customer-support-email {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-8xl);
+  }
+  .at-petdex-were,
+  .customer-support-email-container,
+  .customer-support-phone-container,
+  .div,
+  .petdexgmailcom {
+    position: absolute;
+    top: 219px;
+    left: calc(50% - 292.5px);
+    letter-spacing: 0.05em;
+    line-height: 106%;
+    display: inline-block;
+    width: 282px;
+  }
+  .at-petdex-were,
+  .customer-support-phone-container,
+  .div,
+  .petdexgmailcom {
+    left: calc(50% + 34.5px);
+    width: 193px;
+  }
+  .at-petdex-were,
+  .customer-support-phone-container,
+  .div {
+    top: 291px;
+    width: 157px;
+  }
+  .at-petdex-were,
+  .customer-support-phone-container {
+    left: calc(50% - 292.5px);
+    width: 287px;
+  }
+  .at-petdex-were {
+    top: 381px;
+    left: calc(50% - 254.5px);
+    text-align: center;
+    width: 464px;
+  }
+  .contact-item,
+  .rectangle-container {
+    position: absolute;
+    top: 872px;
+    width: 677px;
+    height: 550px;
+  }
+  .rectangle-container {
+    left: calc(50% - 686px);
+    font-size: var(--font-size-xl);
+  }
+  .contact-item {
+    left: calc(50% + 8px);
+    border-radius: var(--br-22xl);
+    background-color: var(--color-white);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .connect-with-us {
+    position: absolute;
+    top: 1253px;
+    left: calc(50% + 115px);
+    font-size: var(--font-size-xl);
+    letter-spacing: 0.05em;
+    line-height: 106%;
+    text-align: center;
+    display: inline-block;
+    width: 464px;
+  }
+  .social-media {
+    position: absolute;
+    top: 919px;
+    left: calc(50% + 162px);
+  }
+  .contact-child1,
+  .contact-inner {
+    position: absolute;
+    top: 1091px;
+    left: calc(50% + 224px);
+    width: 91px;
+    height: 91px;
+    object-fit: cover;
+  }
+  .contact-child1 {
+    left: calc(50% + 379px);
+  }
+  .group-child7 {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: var(--color-black);
+    height: 209px;
+  }
+  .group-icon1 {
+    position: absolute;
+    top: 80.2px;
+    left: calc(50% - 53px);
+    width: 105.5px;
+    height: 48.8px;
+    object-fit: cover;
+  }
+  .home2,
+  .pets,
+  .suppliments {
+    position: absolute;
+    top: 36px;
+    left: calc(50% - 44.5px);
+    font-weight: 500;
+  }
+  .home2,
+  .suppliments {
+    top: 0;
+  }
+  .suppliments {
+    top: 72px;
+  }
+  .pets-parent {
+    position: absolute;
+    top: 58px;
+    left: calc(50% - 659px);
+    width: 89px;
+    height: 94px;
+  }
+  .group-child8,
+  .group-child9 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 54.5px);
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+  }
+  .group-child9 {
+    left: calc(50% + 10.5px);
+  }
+  .group-parent1 {
+    position: absolute;
+    top: 83px;
+    left: calc(50% + 547px);
+    width: 109px;
+    height: 44px;
+  }
+  .group-div {
+    position: absolute;
+    width: 100%;
+    top: 1452px;
+    right: 0;
+    left: 0;
+    height: 209px;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+  }
+  .rectangle-parent1 {
+    position: absolute;
+    top: 67px;
+    left: calc(50% + 640px);
+    width: 26px;
+    height: 11px;
+  }
+  .component-4,
+  .component-4-child {
+    position: absolute;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 850px;
+  }
+  .component-4-child {
+    top: calc(50% - 1275px);
+    background-color: var(--color-gainsboro);
+  }
+  .component-4 {
+    top: 0;
+    overflow: hidden;
+  }
+  .contact {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1661px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-45xl);
+    color: var(--color-black);
+    font-family: var(--font-trip-sans);
+  }
+  

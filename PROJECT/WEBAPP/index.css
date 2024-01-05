@@ -1,0 +1,515 @@
+.webapp-home-child {
+    position: absolute;
+    top: 35px;
+    left: calc(50% - 604px);
+    border-radius: 50%;
+    background-color: var(--color-plum);
+    width: 44px;
+    height: 44px;
+  }
+  .webapp-home-item {
+    position: absolute;
+    top: 33px;
+    left: calc(50% - 640px);
+    width: 67px;
+    height: 31px;
+    object-fit: cover;
+  }
+  .top-products,
+  .trending-products {
+    position: absolute;
+    top: 124px;
+    left: calc(50% - 392px);
+    line-height: 106%;
+    display: inline-block;
+    color: var(--color-black);
+    width: 197px;
+  }
+  .top-products {
+    top: 128px;
+    left: calc(50% + 171px);
+    width: 146px;
+  }
+  .mask-group-icon {
+    position: absolute;
+    top: 444px;
+    left: calc(50% - 408px);
+    width: 1052px;
+    height: 322px;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .buy-pets,
+  .find-your-new {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 129.55px);
+    line-height: 106%;
+    display: inline-block;
+    width: 258px;
+  }
+  .find-your-new {
+    top: 87px;
+    left: calc(50% - 199.55px);
+    font-size: var(--font-size-sm);
+    width: 399.1px;
+  }
+  .buy-pets-parent {
+    position: absolute;
+    top: 573px;
+    left: calc(50% - 82px);
+    width: 399.1px;
+    height: 102px;
+    font-size: var(--font-size-45xl);
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 159px);
+    border-radius: var(--br-7xl);
+    background-color: var(--color-black);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 318px;
+    height: 52px;
+  }
+  .group-item {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 45px);
+    border-radius: var(--br-mid);
+    background-color: var(--color-white);
+    width: 90px;
+    height: 33px;
+  }
+  .home {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 14px);
+    display: inline-block;
+    width: 27px;
+    height: 15px;
+  }
+  .group-inner,
+  .rectangle-group {
+    position: absolute;
+    top: 0;
+    width: 90px;
+    height: 33px;
+  }
+  .rectangle-group {
+    left: calc(50% - 146px);
+    color: var(--color-black);
+  }
+  .group-inner {
+    left: calc(50% - 45px);
+    border-radius: var(--br-mid);
+    background-color: var(--color-black);
+  }
+  .pets {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 10px);
+    display: inline-block;
+    width: 19px;
+    height: 15px;
+  }
+  .rectangle-container,
+  .suppliments {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 45px);
+    width: 90px;
+    height: 33px;
+  }
+  .suppliments {
+    top: 9px;
+    left: calc(50% - 28px);
+    display: inline-block;
+    width: 55px;
+    height: 15px;
+  }
+  .group-div,
+  .group-parent {
+    position: absolute;
+    top: 0;
+    left: calc(50% + 56px);
+    width: 90px;
+    height: 33px;
+  }
+  .group-parent {
+    top: 9px;
+    left: calc(50% - 146px);
+    width: 292px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 24px;
+    left: calc(50% - 159px);
+    width: 318px;
+    height: 52px;
+    text-align: left;
+    font-size: var(--font-size-3xs);
+  }
+  .group-child1,
+  .group-child2 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 89px);
+    border-radius: var(--br-7xl);
+    background-color: var(--color-black);
+    width: 178px;
+    height: 52px;
+  }
+  .group-child2 {
+    left: calc(50% - 16.7px);
+    border-radius: var(--br-mid);
+    background-color: var(--color-white);
+    width: 33.4px;
+    height: 33px;
+  }
+  .vector-icon {
+    position: absolute;
+    top: 7px;
+    left: calc(50% - 9.7px);
+    width: 19.1px;
+    height: 19.1px;
+    object-fit: cover;
+  }
+  .rectangle-parent2 {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 80px);
+    width: 33.4px;
+    height: 33px;
+  }
+  .search-for-anything {
+    position: absolute;
+    top: 18px;
+    left: calc(50% - 30px);
+    display: inline-block;
+    width: 89px;
+    height: 15px;
+  }
+  .rectangle-parent1 {
+    position: absolute;
+    top: 24px;
+    left: calc(50% + 327px);
+    width: 178px;
+    height: 52px;
+    text-align: left;
+    font-size: var(--font-size-3xs);
+  }
+  .group-child3,
+  .group-child4 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 117px);
+    border-radius: var(--br-22xl);
+    background-color: var(--color-plum);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 234px;
+    height: 243px;
+  }
+  .group-child4 {
+    top: 7px;
+    left: calc(50% - 111px);
+    border-radius: var(--br-19xl);
+    background-color: var(--color-white);
+    width: 222px;
+    height: 159px;
+  }
+  .image-1-icon {
+    position: absolute;
+    top: 20px;
+    left: calc(50% - 45px);
+    width: 91px;
+    height: 132px;
+    object-fit: cover;
+  }
+  .drools-wet-gravy {
+    position: absolute;
+    top: 182px;
+    left: calc(50% - 92px);
+    line-height: 106%;
+    display: inline-block;
+    width: 110px;
+  }
+  .group-child5,
+  .group-child6,
+  .group-icon {
+    position: absolute;
+    top: 209px;
+    left: calc(50% - 92px);
+    width: 48px;
+    height: 8px;
+    object-fit: cover;
+  }
+  .group-child5,
+  .group-child6 {
+    top: 197px;
+    left: calc(50% + 73px);
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+  }
+  .group-child6 {
+    left: calc(50% + 40px);
+  }
+  .rectangle-parent3,
+  .rectangle-parent4 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 248.5px);
+    width: 234px;
+    height: 243px;
+  }
+  .rectangle-parent4 {
+    left: calc(50% + 14.5px);
+  }
+  .group-container,
+  .group-parent1 {
+    position: absolute;
+    top: 172px;
+    left: calc(50% - 408px);
+    width: 497px;
+    height: 243px;
+    font-size: var(--font-size-sm);
+  }
+  .group-parent1 {
+    left: calc(50% + 146px);
+  }
+  .see-all {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 32px);
+    line-height: 106%;
+    font-weight: 500;
+    display: inline-block;
+    width: 45px;
+  }
+  .vector-icon1 {
+    position: absolute;
+    top: 3.3px;
+    left: calc(50% + 22px);
+    width: 10px;
+    height: 9px;
+    object-fit: cover;
+  }
+  .see-all-group,
+  .see-all-parent {
+    position: absolute;
+    top: 131px;
+    left: calc(50% + 19px);
+    width: 64px;
+    height: 14px;
+    cursor: pointer;
+    font-size: var(--font-size-smi);
+    color: var(--color-black);
+  }
+  .see-all-group {
+    left: calc(50% + 567px);
+  }
+  .webapp-home-inner {
+    position: absolute;
+    top: 687px;
+    left: calc(50% + 563px);
+    width: 71px;
+    height: 71px;
+    object-fit: cover;
+  }
+  .group-child22 {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: var(--color-black);
+    height: 209px;
+  }
+  .group-icon1 {
+    position: absolute;
+    top: 80.2px;
+    left: calc(50% - 53px);
+    width: 105.5px;
+    height: 48.8px;
+    object-fit: cover;
+  }
+  .home1,
+  .pets1,
+  .suppliments1 {
+    position: absolute;
+    top: 36px;
+    left: calc(50% - 44.5px);
+    font-weight: 500;
+  }
+  .home1,
+  .suppliments1 {
+    top: 0;
+  }
+  .suppliments1 {
+    top: 72px;
+  }
+  .pets-parent {
+    position: absolute;
+    top: 58px;
+    left: calc(50% - 659px);
+    width: 89px;
+    height: 94px;
+  }
+  .group-child23,
+  .group-child24 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 54.5px);
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+  }
+  .group-child24 {
+    left: calc(50% + 10.5px);
+  }
+  .group-parent2 {
+    position: absolute;
+    top: 83px;
+    left: calc(50% + 547px);
+    width: 109px;
+    height: 44px;
+  }
+  .rectangle-parent7 {
+    position: absolute;
+    width: 100%;
+    top: 797px;
+    right: 0;
+    left: 0;
+    height: 209px;
+    text-align: left;
+    font-size: var(--font-size-base);
+  }
+  .group-child25 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 121.5px);
+    border-radius: var(--br-22xl);
+    background-color: var(--color-black);
+    width: 243px;
+    height: 650px;
+  }
+  .trevor,
+  .welcome-to-petdex {
+    position: absolute;
+    line-height: 106%;
+    display: inline-block;
+  }
+  .trevor {
+    top: 118px;
+    left: calc(50% - 57.5px);
+    font-size: var(--font-size-21xl);
+    width: 116px;
+  }
+  .welcome-to-petdex {
+    top: 69px;
+    left: calc(50% - 52.5px);
+    width: 105px;
+  }
+  .cart,
+  .log-out,
+  .saved-items {
+    position: absolute;
+    top: 163px;
+    left: calc(50% - 3px);
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .cart,
+  .saved-items {
+    top: 9px;
+  }
+  .cart {
+    top: 86px;
+  }
+  .group-child26,
+  .group-child27,
+  .group-child28 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 16.5px);
+    width: 33px;
+    height: 33px;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .group-child27,
+  .group-child28 {
+    top: 77px;
+  }
+  .group-child28 {
+    top: 154px;
+  }
+  .group-parent3,
+  .log-out-parent {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 63px);
+    width: 33px;
+    height: 187px;
+  }
+  .log-out-parent {
+    top: 403px;
+    left: calc(50% - 62.5px);
+    width: 126px;
+    text-align: left;
+  }
+  .rectangle-parent8 {
+    position: absolute;
+    top: 124px;
+    left: calc(50% - 682px);
+    width: 243px;
+    height: 650px;
+    font-size: var(--font-size-xs);
+  }
+  .group-child29,
+  .group-child30 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 13px);
+    background-color: var(--color-black);
+    width: 26px;
+    height: 3px;
+  }
+  .group-child30 {
+    top: 8px;
+  }
+  .rectangle-parent9 {
+    position: absolute;
+    top: 67px;
+    left: calc(50% + 640px);
+    width: 26px;
+    height: 11px;
+  }
+  .component-4,
+  .component-4-child {
+    position: absolute;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 850px;
+  }
+  .component-4-child {
+    top: calc(50% - 1275px);
+    background-color: var(--color-gainsboro);
+  }
+  .component-4 {
+    top: 0;
+    overflow: hidden;
+  }
+  .webapp-home {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1006px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-trip-sans);
+  }
+  
